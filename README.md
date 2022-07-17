@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# UMAP Viz
+
+A 3D visualisation of data clustered using the UMAP algorithm.
 
 ![engine screenshot](https://user-images.githubusercontent.com/1892180/179393281-dee302e1-bf07-41e6-9708-9492cc1f8517.png)
 
